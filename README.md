@@ -3,7 +3,7 @@ A simple library for validating user input in forms using annotations.
 
 Forked from https://github.com/inmite/android-validation-komensky to fix a bug in FutureDateValidator.java
 
-See https://github.com/inmite/android-validation-komensky/pull/35
+See https://github.com/inmite/android-validation-komensky/pull/37
 
  Step 1. Add the JitPack repository to your build file
 ```javascript
